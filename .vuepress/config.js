@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "python全能开发",
-  "description": "快来玩python呀",
+  "title": "java全栈开发",
+  "description": "快来玩java全栈呀",
   "dest": "public",
   "head": [
     [
@@ -66,7 +66,7 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Python"
+        "text": "java全栈"
       },
       "tag": {
         "location": 3,
@@ -81,8 +81,8 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "Python全能开发",
-        "desc": "大家一起来玩Python哟~",
+        "title": "java全栈全能开发",
+        "desc": "大家一起来玩java全栈哟~",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
@@ -91,7 +91,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "于景波",
+    "author": "码路",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2017"
@@ -99,5 +99,5 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-  "base": "/malulesson/"
+  "base": "/javablog/"
 }

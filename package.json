@@ -1,5 +1,5 @@
 {
-  "name": "python全能开发",
+  "name": "java全栈开发",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -10,5 +10,5 @@
     "vuepress": "1.9.7",
     "vuepress-theme-reco": "1.6.17"
   },
-  "description": "于景波的python博客"
+  "description": "码路的java全栈博客"
 }
