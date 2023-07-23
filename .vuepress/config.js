@@ -99,5 +99,5 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-  "base": "./"
+  "base": "/javablog/public/"
 }
