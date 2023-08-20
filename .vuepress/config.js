@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "java全栈开发",
+  "title": "全栈开发",
   "description": "快来玩java全栈呀",
   "dest": "public",
   "head": [
@@ -66,7 +66,7 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "java全栈"
+        "text": "全栈开发"
       },
       "tag": {
         "location": 3,
@@ -81,8 +81,8 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "java全栈全能开发",
-        "desc": "大家一起来玩java全栈哟~",
+        "title": "全栈开发",
+        "desc": "大家一起来玩全栈哟~",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
